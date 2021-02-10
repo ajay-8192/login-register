@@ -28,11 +28,11 @@ export class Register extends React.Component {
                             <input type="password" name="password" placeholder="Password"/>
                         </div>
                         <div className="form-group">
-                            <label htmlFor="role">Confirm Password</label>
+                            <label htmlFor="role">Role</label>
                             <input type="text" name="role" placeholder="Role"/>
                         </div>
                         <div className="form-group">
-                            <label htmlFor="phone">Confirm Password</label>
+                            <label htmlFor="phone">Phone Number</label>
                             <input type="tel" name="phone" placeholder="Phone Number"/>
                         </div>
                         <div className="footer">
